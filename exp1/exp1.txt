@@ -8,6 +8,7 @@ e.g: cd Desktop/
 1) cd /home
 	to go to home directory
 2.) cd httpd
+hello
 	means it would go to /home/httpd
 	because the default current directory would be /home
 3.) cd ..
